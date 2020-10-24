@@ -12,7 +12,7 @@ public class Uniques {
             int count = 0;
 
             for(int j = 0 ; j <= str.length()-1; j++){
-                if(str.charAt(i)== str.charAt(j))
+                if(str.charAt(i) == str.charAt(j))
                 count ++;
 
                 }
